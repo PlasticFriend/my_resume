@@ -168,4 +168,11 @@ main hr{
 }
 .projects{
     height: 1000px;
+    padding-left: 100px;
+}
+.projectsTab{
+    background-color: red;
+    height: 500px;
+    width: 80vw;
+    /*padding: 100px;*/
 }
