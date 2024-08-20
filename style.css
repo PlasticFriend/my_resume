@@ -181,5 +181,26 @@ main hr{
     height: 100px;
     background-color: #434246;
     margin: 10px;
+    display: grid;
+    grid-template-columns: 0.5fr 3fr 0.5fr;
+    border-radius: 50px;
 
 }
+.sl{
+    /*border: solid red 2px;*/
+    font-size: 3rem;
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.content{
+    /*border: solid red 2px;*/
+    font-size: 3rem;
+    padding-left: 100px;
+    padding-top: 15px;
+}
+.linK{
+    /*border: solid red 2px;*/
+    padding-top: 20px ;
+    padding-left: 30px;
+}
+
