@@ -3,6 +3,13 @@ body{
     color: white;
     font-family: "Poppins", sans-serif;
 }
+.navB{
+    position: fixed;
+    width: 100vw;
+}
+.gap{
+    height: 100px;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -158,4 +165,7 @@ main hr{
 }
 .space{
     height: 100px;
+}
+.projects{
+    height: 1000px;
 }
